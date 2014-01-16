@@ -1,6 +1,11 @@
-자기 소개서 양식
-...................
-이름 : 이순란
-팀 : 티운
-github id : soollan
-email : soollan@wemakeprice.com
+자기소개서
+
+------------------
+
+이름 : 박재훈
+
+팀 : 티켓서비스 운영팀
+
+github ID : y30435
+
+E-mail : jhr@wemakeprice.com
